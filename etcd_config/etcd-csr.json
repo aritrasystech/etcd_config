@@ -1,0 +1,21 @@
+{
+  "CN": "etcd",
+  "hosts": [
+    "localhost",
+    "127.0.0.1",
+    "172.22.1.8"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "ID",
+      "L": "Indonesia",
+      "O": "Kubernetes",
+      "OU": "ETCD",
+      "ST": "West Java"
+    }
+  ]
+}
